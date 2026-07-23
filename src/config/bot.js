@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Powering Vex SMP",
+        name: "Powering Fake SMP",
         // Activity type number (0 = Playing).
         type: 1,
       },
